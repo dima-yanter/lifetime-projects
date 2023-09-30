@@ -4,7 +4,6 @@
 
 ### Maintenace Plato
 
-
 1. **Linear Dependency Assumption:** You assume that there is a linear dependency between the amount of delivered functionality and its support. In other words, you expect that as you deliver more functionality, the level of support required increases linearly.
 
 2. **Plato Stage:** You observe that the project tends to reach a plateau stage over time, where it becomes challenging to deliver new functionality. This plateau suggests that there might be limitations or constraints that hinder further functionality delivery, despite the linear dependency assumption.
